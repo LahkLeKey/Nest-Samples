@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Test repository for various full stack projects using Nest as the backend.
+
+Written by Kyle Halek.<br>LahkLeKey@gmail.com
 
 ## Installation
 
