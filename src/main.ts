@@ -24,6 +24,10 @@
  * https://docs.nestjs.com/first-steps
  */
 
+// dotenv must always be imported first and initialized before doing anything else
+import * as dotenv from 'dotenv';
+dotenv.config();
+
 import { NestFactory } from '@nestjs/core';
 import { NestExpressApplication } from '@nestjs/platform-express';
 import { AppModule } from './app.module';
